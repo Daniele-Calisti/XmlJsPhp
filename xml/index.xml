@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magazzino>
+	<articolo id="1">
+		<modello>Macbook Pro 14 inch</modello>
+		<anno>2021</anno>
+		<prezzo>150.000</prezzo>
+		<quantita>5</quantita>
+	</articolo>
+	<articolo id="2">
+		<modello>Samsung Galaxy S21</modello>
+		<anno>2020</anno>
+		<prezzo>30.000</prezzo>
+		<quantita>15</quantita>
+	</articolo>
+<articolo id="3"><modello>Da eliminare</modello><anno>2025</anno><prezzo>12</prezzo><quantita>8</quantita></articolo></magazzino>

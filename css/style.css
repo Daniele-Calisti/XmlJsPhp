@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+
+#filter {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 80%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin: 1% 5% 1% 5%;
+}
+
+#xmlTable {
+  margin: 1% 5% 5% 5%;
+  border-collapse: collapse;
+  width: 80%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#xmlTable th, #xmlTable td {
+  text-align: center;
+  padding: 12px;
+}
+
+#xmlTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#xmlTable tr.header, #xmlTable tr:hover {
+  background-color: #f1f1f1;
+}
+
+.title{
+  text-align: center;
+  margin: 3% 3% 1% 3%;
+  font-family:garamond,serif;
+  font-size: 42px;
+}
