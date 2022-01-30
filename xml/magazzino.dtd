@@ -1,4 +1,5 @@
-<!ELEMENT note (modello,anno,prezzo,quantita)>
+<!ELEMENT magazzino (articolo+)>
+<!ELEMENT articolo (modello,anno,prezzo,quantita)>
 <!ELEMENT modello (#PCDATA)>
 <!ELEMENT anno (#PCDATA)>
 <!ELEMENT prezzo (#PCDATA)>
